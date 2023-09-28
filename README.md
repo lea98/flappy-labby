@@ -1,1 +1,3 @@
-# flappy-labby
+# Flappy Labby
+
+Unity game like Flappy Bird
